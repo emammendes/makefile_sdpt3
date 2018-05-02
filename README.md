@@ -1,6 +1,6 @@
 # makefile_sdpt3
 
-A Makefile to compile sdpt3 using gcc (Apple LLVM version 9.1.0 (clang-902.0.39.1)) and intel compiler (icc (ICC) 17.0.4 20170411). It worked flawlessly on my mac running Matlab 2017b.
+A Makefile (in a command line not within Matlab) to compile sdpt3 using gcc (Apple LLVM version 9.1.0 (clang-902.0.39.1)) and intel compiler (icc (ICC) 17.0.4 20170411). It worked flawlessly on my mac running Matlab 2017b.
 
 # What has been modified
 
